@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="textPadding">10dp</dimen>
+    <dimen name="sizeImage">200dp</dimen>
+    <dimen name="textPaddingEnd">20dp</dimen>
+</resources>

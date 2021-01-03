@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VKapp</string>
+    <string name="et_hint_id">Введите id пользователя</string>
+    <string name="b_search">Search</string>
+    <string name="tv_rezult">Результат будет отображаться здесь</string>
+    <string name="tv_error_message">Произошла ошибка, попробуйте еще раз!</string>
+    <string name="tv_name_1_text">Название первой картинки</string>
+    <string name="tv_desc_1_text">Описание первой картинки</string>
+    <string name="tv_name_2_text">Название второй картинки</string>
+    <string name="tv_desc_2_text">Описание второй картинки</string>
+    <string name="tv_name_3_text">Название третьей картинки</string>
+    <string name="tv_desc_3_text">Описание третьей картинки</string>
+    <string name="save">Сохранить</string>
+</resources>
